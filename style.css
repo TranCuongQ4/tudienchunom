@@ -8,7 +8,7 @@
 }
 body {
     width: 375px;
-    height: 667px;
+    height: 100vh;
     margin: 0 auto;
     background: #0b0d11;
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -251,7 +251,7 @@ footer {
         width: 100%;
         height: 100vh;
         max-width: 375px;
-        max-height: 600px;
+        max-height: 667px;
         border-radius: 0;
     }
     .container {
